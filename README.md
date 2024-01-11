@@ -1,15 +1,6 @@
-
 <h1 align="center">
-AcadHomepage
+KarryRen's AcadHomepage
 </h1>
-
-<div align="center">
-[![](https://img.shields.io/github/stars/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
-[![](https://img.shields.io/github/forks/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
-[![](https://img.shields.io/github/issues/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
-[![](https://img.shields.io/github/license/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io/blob/main/LICENSE) 
-
-</div>
 
 <p align="center">A Modern and Responsive Academic Personal Homepage</p>
 
@@ -24,6 +15,8 @@ AcadHomepage
 - **Responsive**: this homepage automatically adjust for different screen sizes and viewports.
 - **Beautiful and Simple Design**: this homepage is beautiful and simple, which is very suitable for academic personal homepage.
 - **SEO**: search Engine Optimization (SEO) helps search engines find the information you publish on your homepage easily, then rank it against similar websites.
+
+
 
 ## Quick Start
 
@@ -51,6 +44,8 @@ AcadHomepage
         > A: Enter your google scholar homepage and click the paper name. Then you can see the paper ID from `citation_for_view=XXXX`, where `XXXX` is the required paper ID.
 1. Your page will be published at `https://USERNAME.github.io`.
 
+
+
 ## Debug Locally
 
 1. Clone your REPO to local using `git clone`.
@@ -59,6 +54,8 @@ AcadHomepage
 1. Open http://127.0.0.1:4000 in your browser.
 1. If you change the source code of the website, the livereload server will automatically refresh.
 1. When you finish the modification of your homepage, `commit` your changings and `push` to your remote REPO using `git` command.
+
+
 
 # Acknowledges
 
